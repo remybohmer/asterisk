@@ -1,6 +1,6 @@
 FROM debian:stretch-slim
 
-ENV ASTERISK_VERSION 16.8.0
+ENV ASTERISK_VERSION 18.3.0
 
 WORKDIR /src
 
